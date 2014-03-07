@@ -16,5 +16,9 @@ Decimal  Binary
   4      100
 ...      ...
 
+# Trinary
+
+
+
 
 ### Epicodus Lesson Week 3 Day 4
